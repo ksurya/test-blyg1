@@ -1,0 +1,30 @@
+{
+  "blyg": "0.4",
+  "id": "67dm9009zsqt6pzhn7k7c677pq",
+  "kind": "thread",
+  "origin": "https://ksurya.github.io/test-blyg1/",
+  "page": "posts/67dm9009zsqt6pzhn7k7c677pq/",
+  "author": {
+    "name": "Surya Kasturi"
+  },
+  "created": "2026-11-21T21:28:26.460Z",
+  "updated": "2026-11-21T21:28:26.460Z",
+  "version": 1,
+  "content_md": "Post 2",
+  "content_html": "<p>Post 2</p>\n",
+  "content_hash": "sha256:b532a09676cdb5ebc9eda9c7046e335e8cf6d161fd730ce7fe8ae8a55d2902a7",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-11-21T21:28:26.460Z",
+      "note": null
+    }
+  ],
+  "transclusions": [],
+  "stub_of": {
+    "origin": "https://ksurya.github.io/test-blyg2/",
+    "id": "77g5q7eqcqyhef4ddt7mx7hy37",
+    "version": 1
+  }
+}
